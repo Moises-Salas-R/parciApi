@@ -20,8 +20,7 @@ Este es un proyecto de una aplicación de comercio electrónico desarrollada con
 
 1️⃣ Clonar el repositorio
 
-    git clone https://github.com/tu-usuario/tu-repositorio.git
-    cd tu-repositorio
+    git clone https://github.com/Moises-Salas-R/https://github.com/Moises-Salas-R/parciApi.git
 
 2️⃣ Instalar dependencias
 
