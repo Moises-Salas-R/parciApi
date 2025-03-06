@@ -1,0 +1,23 @@
+.product-card {
+    text-align: center;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .product-image {
+    width: 100px; /* Ajusta el tamaño de la imagen */
+    height: 100px;
+    object-fit: contain; /* Evita distorsión */
+    margin: auto;
+    padding: 10px;
+  }
+  
+  ion-card-title {
+    font-size: 14px;
+    font-weight: bold;
+  }
+  
+  ion-card-content p {
+    font-size: 15px;
+    margin-bottom: 10px;
+  }
+  
